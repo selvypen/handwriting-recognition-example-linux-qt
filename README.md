@@ -10,6 +10,7 @@ This example app shows how to recognize handwritten text using the Selvy Pen SDK
 1. Download **Selvy Pen SDK for Text** and License key  
    go to [http://handwriting.selvasai.com/text/download.html](http://handwriting.selvasai.com/text/download.html)
 1. Place <i>libdhwr*.so</i> in `handwriting-recognition-example-linux-qt/lib/linux`
+1. Place <i>dhwr*.h</i> files in `handwriting-recognition-example-linux-qt/include`
 1. Place <i>*.hdb</i> files in `handwriting-recognition-example-linux-qt/hdb`
 1. Place a License file in `handwriting-recognition-example-linux-qt/license`
 1. Open handwritingRecognitionExample.pro and build this project in QT Creator
